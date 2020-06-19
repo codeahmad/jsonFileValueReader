@@ -1,0 +1,56 @@
+{
+
+"coord": {
+"lon": -73.7,
+"lat": 40.84
+},
+
+"weather": [{"id": 803,"main": "Clouds","description": "broken clouds","icon": "04d"}],
+
+
+"base": "stations",
+
+"main": {
+"temp": 296.83,
+"feels_like": 297.27,
+"temp_min": 295.93,
+"temp_max": 298.15,
+"pressure": 1020,
+"humidity": 65
+},
+
+
+"visibility": 16093,
+
+
+"wind": {
+"speed": 2.6,
+"deg": 170
+},
+
+
+"clouds": {
+"all": 75
+},
+
+
+"dt": 1592519312,
+
+"sys": {
+"type": 1,
+"id": 4698,
+"country": "US",
+"sunrise": 1592472176,
+"sunset": 1592526551
+},
+
+
+"timezone": -14400,
+
+"id": 0,
+
+"name": "Port Washington",
+
+"cod": 200
+
+}
